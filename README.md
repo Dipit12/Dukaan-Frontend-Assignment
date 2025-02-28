@@ -10,4 +10,4 @@ Welcome to the frontend engineer internship assessment for Dukaan! This reposito
     - npm i
     - npm run dev
 ## Live-Demo of the App
-    https://dukaan-frontend-assignment-one.vercel.app/
+https://dukaan-frontend-assignment-one.vercel.app/
